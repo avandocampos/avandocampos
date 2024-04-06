@@ -1,4 +1,4 @@
-# 👋 Hi, I'm is Avando Campos
+# 👋 Hi, I'm Avando Campos
 
 ### About Me
 - 🌱 I'm a Full-Stack Python and JavaScript Developer with a passion for creating user-friendly applications.
