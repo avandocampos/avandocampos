@@ -1,3 +1,6 @@
+
+![GitHub Header](https://github.com/avandocampos/avandocampos/blob/main/capa_temporario.webp)
+
 # 👋 Hi, I'm Avando Campos
 
 ### About Me
