@@ -1,5 +1,5 @@
 
-![GitHub Header](https://github.com/avandocampos/avandocampos/blob/main/capa_temporario.webp)
+![GitHub Header](https://github.com/avandocampos/avandocampos/blob/main/capa.webp)
 
 # 👋 Hi, I'm Avando Campos
 
