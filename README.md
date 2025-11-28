@@ -1,5 +1,5 @@
 
-![GitHub Header](https://github.com/avandocampos/avandocampos/blob/main/)
+![GitHub Header](https://github.com/avandocampos/avandocampos/blob/main/capa.png)
 
 # 👋 Hi, I'm Avando Campos
 
